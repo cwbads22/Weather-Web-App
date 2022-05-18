@@ -1,6 +1,5 @@
 body {
-    
-    background-size: auto;
+    background-size: cover;
     background-image: linear-gradient(to right, #ff9966, #ff5e62);
     font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
