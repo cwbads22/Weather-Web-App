@@ -2,6 +2,6 @@ Projeto de aplicação de Meteorologia, consumindo a API gratuita Open Weather M
 
 https://openweathermap.org/api
 
-Aplicação retorna as condições climáticas atuais de qqalquer cidade do planeta.
+Aplicação retorna as condições climáticas atuais de qualquer cidade do planeta.
 
 Experimento com APIs, JS e CSS.
