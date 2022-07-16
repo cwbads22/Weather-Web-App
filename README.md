@@ -6,7 +6,7 @@ Aplicação retorna as condições climáticas atuais de qualquer cidade do plan
 
 Experimento com APIs, JS e CSS:
 
-https://cwbads22.github.io/
+https://cwbads22.github.io/Weather-Web-App/
 
 Experimento com APi do CEP - Brasil:
 
